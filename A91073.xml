@@ -1,0 +1,210 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The prophecy of the white king explained, compared with severall copies, both Welsh, Latine, and English: some of which were written almost a thousand years agoe, besides this old English copy here printed, which was of high esteem in the dayes of King Edward the fourth.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1649</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 14 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91073</idno>
+            <idno type="STC">Wing P3683</idno>
+            <idno type="STC">Thomason E540_4</idno>
+            <idno type="STC">ESTC R205743</idno>
+            <idno type="EEBO-CITATION">99865031</idno>
+            <idno type="PROQUEST">99865031</idno>
+            <idno type="VID">117264</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A91073)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 117264)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 84:E540[4])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The prophecy of the white king explained, compared with severall copies, both Welsh, Latine, and English: some of which were written almost a thousand years agoe, besides this old English copy here printed, which was of high esteem in the dayes of King Edward the fourth.</title>
+                  <author>Lilly, William, 1602-1681, attributed name.</author>
+                  <author>Braithwaite, William, fl. 1649, attributed name.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for Robert Ibbitson,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>1649.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Place of publication from Wing.</note>
+                  <note>Attributed to William Lilly or William Braithwaite in the Wrenn catalogue.</note>
+                  <note>Annotation on Thomason copy: "Jan. 26 1648"; the "9" in the imprint has been crossed out.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prophecies --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Edward IV, 1461-1483 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Prophecies --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2011-05</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-05</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Sampled and proofread</change>
+         <change>
+            <date>2011-11</date>
+            <label>Jayne Henley</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:117264:1"/>
+            <p>The PROPHECY of the WHITE KING Explained, Compared with ſeverall Copies, both Welſh, Latine, and Engliſh: Some of which were written almoſt a thouſand years agoe, be<g ref="char:EOLhyphen"/>ſides this old Engliſh Copy here Printed, which was of high eſteem in the dayes of King <hi>Edward</hi> the fourth,</p>
+            <figure/>
+            <p>Printed for Robert Ibbitſon. 1649.</p>
+         </div>
+      </front>
+      <body>
+         <div type="commentary">
+            <pb facs="tcp:117264:2"/>
+            <pb n="1" facs="tcp:117264:2"/>
+            <head>THE Prophecy of the VVhite KING EXPLAINED.</head>
+            <p>
+               <seg rend="decorInit">A</seg> Thing foreſeen, and declared to come to paſſe concerning great <hi>Britain,</hi> is very remarkeable, and thus prophecyed of long before.</p>
+            <p>When <hi>Britain,</hi> (that is, <hi>England</hi> and <hi>Scotland</hi>) ſhall have one King (whoſe Armes is the Lion) And this King ſhall be the rightfull Prince of the whole Iſle) then this time is neer at hand; but not to be fulfilled in his life; It ſhall not be accompliſhed in his time, but when he is dead, poyſoned, or cut off, then ſhall the time bee.</p>
+            <p>The King that ſucceeds him, ſhall be ſuch a one, as muſt be King of all <hi>Britain,</hi> both <hi>England</hi> and <hi>Scotland,</hi> as the King his predeceſſor was.</p>
+            <p>He ſhall be all in White, Suite, Cloke, Stockings, all white, or ſome other viſible demonſtration ſhall declare him to bee properly called a White <hi>King,</hi> at the very time of his Corona<g ref="char:EOLhyphen"/>tion, when he receives the Crown, and Scepter.</p>
+            <p>And he is to be not only born in <hi>Britain,</hi> but to be raiſed out of the loyns of the fore-going King, hee ſhall be his only ſon then living, The aged Father being dead, the Son ſhall riſe, and ſit in the Throne, to rule both <hi>England</hi> and <hi>Scotland.</hi>
+            </p>
+            <p>But yet hee ſhall not come to the Crowne without further markes concerning him; to declare who this White King ſhall be. For foure things are immediately to goe before his com<g ref="char:EOLhyphen"/>ming to the Throne.</p>
+            <p n="1">1 <hi>Hee ſhall riſe to the Crown <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>y flying over the head of his Brother, or ſome other, who is neerer <gap reason="illegible" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> the Crown then he, And therefore ſhall be removed out of the way by poyſon, death, baniſhment, or ſome way or other.</hi>
+            </p>
+            <p n="2">2 <hi>He ſhall ride, and travell farre, to ſeek him a wife, he ſhall goe into</hi> Spain <hi>or</hi> Italy, <hi>or ſome other Kingdoms, to effect it, but ſhall return un<g ref="char:EOLhyphen"/>ſatisfied.</hi>
+            </p>
+            <pb n="2" facs="tcp:117264:3"/>
+            <p n="3">3 <hi>He ſhall marry one out of</hi> France, <hi>or ſome neerer place, then whi<g ref="char:EOLhyphen"/>ther he before r<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>l<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>, and ſought, and they ſhall be bodded, and lye together, before the old King be removed.</hi>
+            </p>
+            <p n="4">4 <hi>In his lying with his wife, be ſhall doe the office of an Husband.</hi>
+            </p>
+            <p>Theſe ſome things being accompliſhed, the Lyon of Right<g ref="char:EOLhyphen"/>fulneſſe ſhall dye. And then the White King ſhall riſe, and be led to the Throne.</p>
+            <p>After the White King hath Reigned certain years in <hi>Britain,</hi> he ſhall ſo vex his people, that when he is in <hi>England, Scotland</hi> ſhall riſe againſt him. And they ſhall publiſh Declarations, and ſhew whether there be not Chriſt and King in the Kirk, above the perſon of the White King.</p>
+            <p>And by that Kingdome forces ſhall be raiſed, and an Army gathered together, for the freedome, and priviledges, of the People.</p>
+            <p>And the White King alſo ſhall raiſe an Army in <hi>England,</hi> to be an help for him againſt thoſe raiſed by the Scots, and ſhall take to him ſuch Officers as he can beſt confide in, becauſe he ſhall finde a great unwillingneſſe in the people to this warre.</p>
+            <p>But the Armies ſhall band, the King will impoſe ſhip-mo<g ref="char:EOLhyphen"/>ney, and other Seſſements upon the people, and make himſelf a Merchant of their Eſtates, Monopolies ſhall ſtill increaſe, He ſhall ſet riders upon Horſes, and force the people by Taxes, to pay them, and ſhall cauſe his Subjects of the two kingdoms, to be murthered like Oxen.</p>
+            <p>The King ſhall be ſought to, that there may bee a preſent help, and that all the burdens, and grievouſneſſes of the king<g ref="char:EOLhyphen"/>domes may be removed, both in Church and State, but he ſhall not be prevailed with.</p>
+            <p>Yet it ſhall ſo come to paſſe, that there ſhall be a Treaty, at which head for head ſhall have argument for argument; and at laſt a pacification ſhall be agreed on, and then ſhall the Scots returne back to their owne Kingdome, and the ſun ſhall ariſe in England by the Kings calling of a Parliament.</p>
+            <p>Yet ſo that another cloud ſhall ariſe and cauſe this ſun to ſet by diſſolving it preſently againe; and then ſhall the peo<g ref="char:EOLhyphen"/>ple be in ſad diſcontents.</p>
+            <p>But after the diſſolution of this Parliament, great riſings
+<pb n="3" facs="tcp:117264:3"/>ſhall be over all <hi>Brittaine,</hi> in ſo much that the King will bee forced to call a new Parliament.</p>
+            <p>And in that Parliament divers Acts ſhall be paſſed, by the King, Lords, and Commons; and yet the people (in great diſcontents) ſhall exclaime againſt the King for oppreſſion, and flock to the Parliament to cry for juſtice, by that Kingly authority which is in them.</p>
+            <p>After this, when the King ſhall ſee how the people riſe a<g ref="char:EOLhyphen"/>gainſt him, he ſhall go from his Parliament, and raiſe up his Standard, and put forth Proclamations, and Declarati<g ref="char:EOLhyphen"/>ons againſt them, and all that oppoſe him; and ſhall be re<g ref="char:EOLhyphen"/>ſolved (by the ſword) to make them know that he is a King; for which purpoſe he ſhall appoint a Commiſſion of Array to be ſettled in all parts of the Kingdome.</p>
+            <p>Theſe will be ſtrange and trying times; ſome will ſtagger, and not know what to do; yet Wiſe-men will be able to diſ<g ref="char:EOLhyphen"/>cerne the providence and way of God, and notwithſtanding the great diviſions then amongſt the people; yet they will finde a ſettlement in their judgements, becauſe they eye the way of God.</p>
+            <p>But there ſhall be a range of plundering Gleada, that ſhall live upon pillage of the Country: Cavaliers, that ſhall joyne with the White King, ſhall bereave men of their goods, and have the Command of mens houſes, as if they were their own.</p>
+            <p>And as for the time of this warre, it is to laſt for the ſpace of ſeven years, in which time will happen many ſad calami<g ref="char:EOLhyphen"/>ties, which uſually accompany warre.</p>
+            <p>There will be ravening after mens eſtates, violence to ſhed blood, the people of God will be driven into Corners, and hide themſelves in Ovens, and holes, from the barbarous Ca<g ref="char:EOLhyphen"/>valiers. The husbandman will have his corn carryed away by ſtrangers, many ſhall be brought to poverty, and driven to live a moſt miſerable and wretched life; and yet (in their greateſt miſery) ſhall find but few friends.</p>
+            <p>After this, Malignants, Chickens of the Court, ſhal paſſe from the South and the Eaſt, to the North of <hi>England,</hi> and up and down <hi>Britain,</hi> to joyne with the King againſt the Parlia<g ref="char:EOLhyphen"/>ment. And to the Houſes and Garriſons of the White King,
+<pb n="4" facs="tcp:117264:4"/>and the King himſelf will command them, and have great fel<g ref="char:EOLhyphen"/>lowſhip with them.</p>
+            <p>And by that time a yeare and an halfe is paſſed of the Engliſh war, the Scots will come in to joyn with the Parliament of <hi>Eng<g ref="char:EOLhyphen"/>land;</hi> and then the war will be all over Brittaine, both in Eng<g ref="char:EOLhyphen"/>land and Scotland, and then wil a promiſe belittle regarded; many will endeavour to keep that which is theirs, and to live upon o<g ref="char:EOLhyphen"/>ther mens eſtates. And this ſhall continue for a certaine time.</p>
+            <p>But the time ſhall come, wherein the White Kings Army at <hi>Nazby</hi> or ſome ſuch place, ſhall be utterly defeated: land he him<g ref="char:EOLhyphen"/>ſelfe ſhall be made very feeble and weake, And he ſhall be ſo pur<g ref="char:EOLhyphen"/>ſued that with much difficulty he ſhall make a private eſcape out of <hi>Newarke</hi> or ſome beſiedged Garriſon to <hi>Oxford,</hi> or to ſome For<g ref="char:EOLhyphen"/>tification of his from whence he came, by which there is a r<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>n<g ref="char:EOLhyphen"/>ing water.</p>
+            <p>Yet when he is there, he ſhall be followed by the Parliaments forces, and through feare leave his old Garriſon againe; and at a place agreed on, he ſhall be met, and ſurrender himſelfe to the Scots, who ſhall deliver him to the Engliſh, and themſelves re<g ref="char:EOLhyphen"/>turn backe into Scotland.</p>
+            <p>He ſhall have guards of Souldiers ſet upon him; yet hee ſhall make to him a new hoaſt, and by private Commiſſions get a great ſtrength, and they ſhall ingage for him in a new war; and the White King ſhall come to a Perſonal Treaty with the Parliament and that to bee over the great hall of the Schoole-houſe, in the Church-yard at <hi>Newport</hi> in the Iſle of <hi>Wight,</hi> or over ſome other hall in a Kirke yard: where ſhall be his fall and ruin.</p>
+            <p>After this ſhall the King who is the Eagle, and all his Chickins be brought to tryall by the ſupreame power of the Commons of <hi>England,</hi> the higheſt Pearch of all <hi>Brittaine,</hi> firſt of his life.</p>
+            <p>And foure things are obſervable about the death of the White King.</p>
+            <p n="1">1 Hee ſhall not bee ſlaine amongſt the young Souldiers, but ſhall bee preſerved all the times both of the former and the latter War.</p>
+            <p n="2">2 Hee ſhall not come to be old, not live to ſee long time after the warres are ended, and yet he ſhall live to ſee peace.</p>
+            <pb n="5" facs="tcp:117264:4"/>
+            <p n="3">3 That he ſhall come to be tryed for his life, in which the gen<g ref="char:EOLhyphen"/>tle worthies of the Parliament and their Army, will not ſuffer wrong to be done unto him, But will give him an ample, publick and legall Tryall.</p>
+            <p n="4">4 That the Realme being thus ſettled in peace, then the White King muſt dye.</p>
+            <p>Here are alſo ſet down what ſhall come to paſſe after the death of the White King.</p>
+            <p n="1">1 That two yeares after the Realme is in peace, there ſhall be fully eſtabliſhed an Agreement of the People, and a holy rule from heaven, which ſhall ſettle the Church, as it ſhall ſtand for ever to the end of the world.</p>
+            <p n="2">2 The Liberties of the three Countries ſhall be reſtored, ſo that <hi>England, Scotland</hi> and <hi>Wales,</hi> ſhall never be in ſuch ſlavery to the day of Doome.</p>
+            <p n="3">3 The ſuperſtition of the Oroſſe and all Popery and Prelacy ſhall be taken away.</p>
+            <p n="4">4 There ſhall be a Temple builded not made with hands, but ſpirituall for the advancing of Jeſus Chriſt upon his Throne.</p>
+         </div>
+         <div type="prophecy">
+            <head>THE VVHITE KINGS PROPHECY.</head>
+            <p>WHen the Lyon of Righteouſneſſe is dead, there ſhall riſe a White King in <hi>Brittain,</hi> firſt Flying, and after Riding, af<g ref="char:EOLhyphen"/>ter Ligging down; and in this ligge down he ſhall be lamed; after that he ſhall be led. And there ſhall be ſhewed whether there be another King: Then ſhall be gathered together much folke, and he ſhall take helpe for him: And then there ſhall be Merchan<g ref="char:EOLhyphen"/>diſe of men, (as of an Horſe, or an Oxe) and there ſhall be ſought help; and there ſhall none ariſe, but head for head; and then ſhall one gone, there the Sun ariſeth, another there the Sun gone down: After this it ſhall be ſaid by <hi>Brittain</hi> (King is King) King is no
+<pb n="6" facs="tcp:117264:5"/>King. After this he ſhall raiſe up his head, and he ſhall be taken him to be a King, be many things to be done, but wiſe men read<g ref="char:EOLhyphen"/>ing, and then ſhall a range of Gleeds and that ever each hath be<g ref="char:EOLhyphen"/>reaving) he ſhall have it for his own, and this ſhall laſt ſeven yeers, Lo raving and ſhedding of blood; and Ovens ſhall be made like Kirks; and that as one ſowes another ſhal reap, and death ſhall be better then wretched life, and charity ſhall be of few men; After then ſhall come through the South with the Sun, on Horſe of tree, and upon all waves on the Sea, the chicken of the Eagle ſailing into <hi>Brittain,</hi> and arriving anon to the Houſe of the Eagle, he ſhall ſhew fellowſhip to them beaſts. After a yeer and a half ſhall be war in <hi>Brittain,</hi> then ſhall a ſooth be naught worth, and every man ſhall keep his thing, and gotten other mens good: af<g ref="char:EOLhyphen"/>ter the white King feeble ſhall goe towards the Weſt, betlipped about with his folk, to the old place been running water, then his Enemies ſhall meet him, and meet him, and march in her place, ſhall be ordained about him in Hoaſt, on the manner of a ſhield ſhal be formed, then ſhal they fight on Oven front, After the white King ſhall fall into a Kirk-yard over a Hall. After the chic<g ref="char:EOLhyphen"/>ken of the Eagle ſhall neſtle in the higheſt Rooch of all <hi>Brittain,</hi> nay he ſhall naught be ſlain yong: nay naught come old, for then the Gentle worthines ſhall naught ſuffer wrong be done to him, But when the Realm is in peace then ſhall he die, and two yeers after ſhall come a new. Rule from Heaven and ſettle holy Kirk as it ſhall evermore ſtand, and bring three Countries into one, <hi>Eng<g ref="char:EOLhyphen"/>land, Scotland,</hi> and <hi>Wales,</hi> unto the day of doom, and the Holy Croſſe be brought into Chriſtian mens hands, and there ſhall be made a Temple that never was made, ſuch none.</p>
+            <p>
+               <hi>The Originall hereof was found by the Lady</hi> Poſton <hi>of the Coun<g ref="char:EOLhyphen"/>ty of</hi> Norfolk, <hi>amongst the evidences of</hi> Edw. <hi>the fourth his time.</hi>
+            </p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="imprimatur">
+            <p>Jan. 26. 1648.</p>
+            <p>Imprimatur</p>
+            <p>
+               <hi>Theodore Jennings.</hi>
+            </p>
+         </div>
+      </back>
+   </text>
+</TEI>
